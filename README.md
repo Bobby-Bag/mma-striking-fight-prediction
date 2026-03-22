@@ -33,3 +33,7 @@ The model's performance was evaluated against a **naive baseline of 56.4%** (whi
 1. Clone the repository:
    ```bash
    git clone [https://github.com/Bobby-Bag/mma-striking-fight-prediction.git](https://github.com/Bobby-Bag/mma-striking-fight-prediction.git)
+2. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+3. Run the Jupyter Notebook to view the EDA, feature selection, and model evaluation.
