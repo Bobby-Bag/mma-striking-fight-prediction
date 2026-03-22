@@ -205,3 +205,21 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Virtual Environments
+venv/
+env/
+.venv/
+
+# Datasets
+*.csv
+*.xlsx
+*.json
+data/
+
+# Python and Jupyter Cache
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+
+
